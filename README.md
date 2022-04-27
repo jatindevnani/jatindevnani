@@ -1,7 +1,7 @@
 [![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)](JaySanodiya)
 <div style="display: flex; justify-content: space-around;" >
 <div>
-<h1 align="left">Hi 👋, I'm Jay Sanodiya</h1>
+<h1 align="left">Hi 👋, I'm Jatin Devnani</h1>
 <h3 align="left">A passionate Backend developer</h3>
 </div>
 <div>
