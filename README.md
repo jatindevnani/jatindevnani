@@ -15,15 +15,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysanodiya" alt="jaysanodiya" /></a> </p> -->
 
-- 🌱 I’m currently learning **SpringBoot, Design pattern**
+- 🌱 I’m currently learning **Spring Framework, Design pattern**
 
-- 📝 I regularly write articles on [https://medium.com/@jay.sanodiya09](https://medium.com/@jay.sanodiya09)
+- 📝 I regularly write articles on [https://medium.com/@jatindevnani123](https://medium.com/@jatindevnani123)
 
-- 📫 How to reach me **jay.sanodiya09@gmail.com**
+- 📫 How to reach me **jatindevnani123@gmail.com**
+<!-- 
+- 📄 **Resume** [Click Me](https://drive.google.com/file/d/1zhiLPHcVnfX9jOY1itGfg7kTix65J0Gs/view?usp=sharing) -->
 
-- 📄 **Resume** [Click Me](https://drive.google.com/file/d/1zhiLPHcVnfX9jOY1itGfg7kTix65J0Gs/view?usp=sharing)
-
-- ⚡ Fun fact **I think I'm Jolly.**
+- ⚡ Favorite Activity except coding? **Wrecking people in Valorant**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,10 +32,10 @@
 <h3 align="left" >Connect with me:</h3>
 <br/>
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jay-sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
-<a href="https://fb.com/jay sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jay sanodiya" height="40" width="50" /></a>
-<a href="https://instagram.com/jay341sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
-<a href="https://medium.com/@jay.sanodiya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/jatin-devnani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
+<a href="https://www.facebook.com/jatii.dewnani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jay sanodiya" height="40" width="50" /></a>
+<a href="https://www.instagram.com/uptown_funnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
+<a href="https://medium.com/@jatindevnani123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay_sanodiya" height="40" width="50" /></a>
 </p>
 <br/>
@@ -45,9 +45,9 @@
 
 <br/>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysanodiya&show_icons=true&locale=en&layout=compact" alt="jaysanodiya" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatindevnani&show_icons=true&locale=en&layout=compact" alt="jaysanodiya" /></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysanodiya&show_icons=true&locale=en" alt="jaysanodiya" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatindevnani&show_icons=true&locale=en" alt="jaysanodiya" /></div>
 
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanodiya&" alt="jaysanodiya" /></p> -->
