@@ -2,10 +2,10 @@
 <div style="display: flex; justify-content: space-around;" >
 <div>
 <h1 align="left">Hi 👋, I'm Jatin Devnani</h1>
-<h3 align="left">A passionate Backend developer</h3>
+<h3 align="left">A Java Backend developer</h3>
 </div>
 <div>
-    <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 </div>
 
 </div>
